@@ -11,7 +11,6 @@
 <a href="https://fb.com/brayan.vilchezdaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brayan.vilchezdaga" height="30" width="40" /></a>
 <a href="https://instagram.com/brayan5full" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brayan5full" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@brayanvilchezdaga9257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brayanvilchezdaga9257" height="30" width="40" /></a>
-<a href="https://discord.gg/Brayan5full#7863" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7863" height="30" width="40" /></a>
 <a href="https://wa.me/393509970699" target="blank"><img align="center"  src="https://www.svgrepo.com/show/122874/whatsapp.svg"  alt="Brayan Vilchez Daga" height="30" width="40" /></a>
  <a href="mailto:brayandaga5@gmail.com" target="blank"><img align="center"  src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Brayan Vilchez Daga" height="30" width="40" /></a>
 </p>

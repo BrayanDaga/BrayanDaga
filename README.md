@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador autodidacta</h3>
 
 - 👀 Me interesa programar y es por eso que me motiva aprender cada dia más **
- - 🌱 Actualmente estoy aprendiendo **Laravel, python,javascript, java**
+ - 🌱 Actualmente estoy aprendiendo **Laravel, css,javascript,**
 
 
 <h3 align="left">Conectate conmigo:</h3>
